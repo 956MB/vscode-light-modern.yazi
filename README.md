@@ -38,7 +38,7 @@ Add the these lines to your `theme.toml` configuration file to use it:
 
 ```toml
 [flavor]
-dark = "vscode-light-modern"
+light = "vscode-light-modern"
 ```
 
 ## 📜 License
